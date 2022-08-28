@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Self-education\Beetroot\autoService\autoService\bin\Debug\autoService.exe.config
+C:\Users\User\Desktop\Self-education\Beetroot\autoService\autoService\bin\Debug\autoService.exe
+C:\Users\User\Desktop\Self-education\Beetroot\autoService\autoService\bin\Debug\autoService.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\autoService\autoService\obj\Debug\autoService.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-education\Beetroot\autoService\autoService\obj\Debug\autoService.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Self-education\Beetroot\autoService\autoService\obj\Debug\autoService.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\autoService\autoService\obj\Debug\autoService.exe
+C:\Users\User\Desktop\Self-education\Beetroot\autoService\autoService\obj\Debug\autoService.pdb
